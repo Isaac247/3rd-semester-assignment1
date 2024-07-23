@@ -88,13 +88,13 @@ d) Click **save changes**
 
 ![img1](images/Shot0015.png)  
 
-### Step 5: Obtaing bucket website endpoint url
+### Step 5: Obtaining bucket website endpoint url
 
 a) Click **properties** 
 
 ![img1](images/Shot0017.png)   
 
-b) Scroll down to static web hosting sectionn, scroll down copy the link and paste on your browser. The static web page should be  up
+b) Scroll down to static web hosting section, scroll down copy the link and paste on your browser. The static web page should be  up
 
 ![img1](images/Shot0018.png)   
 
@@ -113,7 +113,7 @@ c) On the origin domain input bar a suggestion pop should come up showing the or
 
 d) Insert the name of the home page for the website  as the default root object
 
-![img1](images/Shot0023.png)  
+![img1](images/Shot0024.png)  
 
 e} Click **create distribution** 
 
